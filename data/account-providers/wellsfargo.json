@@ -9,7 +9,7 @@
   "legalName": "Wells Fargo & Company",
   "ipoStatus": "public",
   "stockSymbol": "WFCS",
-  "verified": false,
+  "verified": true,
   "aliases": [
     "Wells Fargo Bank"
   ],
@@ -17,7 +17,7 @@
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1571962504/catalog/wellsfargo/icon128x128.jpg",
   "websiteUrl": "https://www.wellsfargo.com/",
   "ownership": [],
-  "stateOwned": false,
+  "stateOwned": true,
   "countryHQ": "US",
   "countries": [
     "US"
@@ -30,7 +30,7 @@
   "developerPortalUrl": "https://developer.wellsfargo.com/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
-  "slackCommunity": false,
+  "slackCommunity": true,
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.wellsfargo.com/apis/data-services/account-aggregation",
   "apiPerformanceReports": [],
@@ -46,7 +46,7 @@
       "description": null,
       "documentationUrl": "https://developer.wellsfargo.com/apis/open-banking-europe/account-and-transaction-information",
       "apiReferenceUrl": null,
-      "premium": false,
+      "premium": true,
       "stage": "live"
     },
     {
@@ -58,7 +58,7 @@
       ],
       "documentationUrl": "https://developer.wellsfargo.com/apis/open-banking-europe/payment-initiation",
       "apiReferenceUrl": null,
-      "premium": false,
+      "premium": true,
       "stage": "live"
     }
   ],
